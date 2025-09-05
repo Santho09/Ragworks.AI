@@ -23,7 +23,7 @@ Clone the repo and install dependencies:
 
 ```bash
 git clone https://github.com/your-username/ragworks.git
-cd ragworks/problem statement 1
+cd ragworks/Problem statement 1
 npm install
 ```
 
@@ -111,4 +111,5 @@ src/
 ## Contact
 
 For questions or feedback, contact Santhosh-9176248181
+
 
