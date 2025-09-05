@@ -96,20 +96,51 @@ MIT
 ## Project Structure
 
 ```
-src/
-  components/
-    Button/
-    Card/
-    Input/
-    Modal/
-  stories/
-  __tests__/
+ragworks/
+└── project/
+    ├── src/
+    │   ├── components/
+    │   │   ├── Button/
+    │   │   │   ├── Button.tsx
+    │   │   │   ├── Button.styled.ts
+    │   │   │   └── index.ts
+    │   │   ├── Card/
+    │   │   │   ├── Card.tsx
+    │   │   │   ├── Card.styled.ts
+    │   │   │   └── index.ts
+    │   │   ├── Input/
+    │   │   │   ├── Input.tsx
+    │   │   │   ├── Input.styled.ts
+    │   │   │   └── index.ts
+    │   │   ├── Modal/
+    │   │   │   ├── Modal.tsx
+    │   │   │   ├── Modal.styled.ts
+    │   │   │   └── index.ts
+    │   │   └── index.ts
+    │   ├── stories/
+    │   │   ├── Button.stories.tsx
+    │   │   ├── Card.stories.tsx
+    │   │   ├── Input.stories.tsx
+    │   │   └── Modal.stories.tsx
+    │   ├── __tests__/
+    │   │   ├── Button.test.tsx
+    │   │   ├── Card.test.tsx
+    │   │   ├── Input.test.tsx
+    │   │   └── Modal.test.tsx
+    │   ├── App.tsx
+    │   └── main.tsx
+    ├── public/
+    │   └── index.html
+    ├── package.json
+    ├── tsconfig.json
+    ├── tailwind.config.js
+    ├── postcss.config.js
 ```
-
 ---
 
 ## Contact
 
 For questions or feedback, contact Santhosh-9176248181
+
 
 
