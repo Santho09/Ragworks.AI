@@ -1,6 +1,6 @@
 ﻿# Ragworks.AI
 
-# ragworks UI Component Library
+# Ragworks UI Component Library
 
 A reusable, accessible, and responsive React component library built with TypeScript and Tailwind CSS.
 
@@ -110,4 +110,4 @@ src/
 
 ## Contact
 
-For questions or feedback, open an issue or
+For questions or feedback, contact Santhosh-9176248181
